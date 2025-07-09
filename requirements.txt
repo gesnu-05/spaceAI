@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+jinja2
+llama-index
+llama-index-readers-file
+pypdf
